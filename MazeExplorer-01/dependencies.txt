@@ -1,0 +1,949 @@
+main 3066b:
+Internal:
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:51	98b
+		/app/builds/8/main.ino:354	88b
+		/app/builds/8/main.ino:372	72b
+		/app/builds/8/main.ino:357	66b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:997	64b
+		/app/builds/8/main.ino:250	52b
+		/app/builds/8/main.ino:252	52b
+		/app/builds/8/main.ino:277	50b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:818	46b
+		/app/builds/8/main.ino:275	40b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:67	40b
+		/app/builds/8/main.ino:253	38b
+		/app/builds/8/main.ino:278	38b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:810	36b
+		/app/builds/8/main.ino:240	34b
+		/app/arduino/hardware/arduino/avr/cores/arduino/Print.cpp:215	32b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:1315	32b
+		/app/builds/8/main.ino:336	32b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:263	30b
+		/app/builds/8/main.ino:334	28b
+		/app/builds/8/main.ino:335	28b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:231	28b
+		/app/builds/8/main.ino:359	26b
+		/app/builds/8/main.ino:247	24b
+		/app/builds/8/main.ino:140	24b
+		/app/arduino/hardware/arduino/avr/libraries/EEPROM/src/EEPROM.h:42	24b
+		/app/builds/8/main.ino:360	22b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:58	22b
+		/app/arduino/hardware/arduino/avr/cores/arduino/Print.cpp:69	22b
+		/app/arduino/hardware/arduino/avr/cores/arduino/Print.cpp:213	22b
+		/app/builds/8/main.ino:163	22b
+		/app/builds/8/main.ino:358	20b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:180	20b
+		/app/builds/8/main.ino:272	20b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:797	20b
+		/app/arduino/hardware/arduino/avr/cores/arduino/main.cpp:34	20b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:808	20b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:101	20b
+		/app/arduino/hardware/arduino/avr/libraries/EEPROM/src/EEPROM.h:47	20b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:151	20b
+		/app/builds/8/main.ino:263	20b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:232	18b
+		/app/builds/8/main.ino:222	18b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:1013	18b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:793	18b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:95	16b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:201	16b
+		/app/builds/8/main.ino:355	16b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:56	16b
+		/app/arduino/hardware/arduino/avr/cores/arduino/Print.cpp:208	16b
+		/app/arduino/hardware/arduino/avr/cores/arduino/Print.cpp:217	16b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:804	16b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:230	16b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:794	16b
+		/app/arduino/hardware/arduino/avr/cores/arduino/wiring.c:73	16b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:816	16b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:805	16b
+		/app/builds/8/main.ino:150	16b
+		/app/builds/8/main.ino:161	16b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:98	16b
+		/app/builds/8/main.ino:248	16b
+		/app/builds/8/main.ino:244	16b
+		/app/arduino/hardware/arduino/avr/cores/arduino/main.cpp:47	16b
+		/app/arduino/hardware/arduino/avr/cores/arduino/Print.cpp:94	14b
+		/app/builds/8/main.ino:273	14b
+		/app/builds/8/main.ino:193	14b
+		/app/builds/8/main.ino:141	14b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2Core.cpp:220	14b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:801	14b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:824	14b
+		/app/builds/8/main.ino:325	14b
+		/app/builds/8/main.ino:203	14b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:48	12b
+		/app/builds/8/main.ino:192	12b
+		/app/builds/8/main.ino:267	12b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:272	12b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:982	12b
+		/app/builds/8/main.ino:139	12b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:50	12b
+		/app/builds/8/main.ino:265	12b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:47	12b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:723	12b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:725	12b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2Core.cpp:208	12b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:177	12b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:72	10b
+		/app/arduino/hardware/arduino/avr/cores/arduino/wiring.c:333	10b
+		/app/arduino/hardware/arduino/avr/cores/arduino/wiring.c:334	10b
+		/app/arduino/hardware/arduino/avr/cores/arduino/wiring.c:335	10b
+		/app/builds/8/main.ino:152	10b
+		/app/arduino/hardware/arduino/avr/cores/arduino/wiring.c:336	10b
+		/app/arduino/hardware/arduino/avr/cores/arduino/wiring.c:337	10b
+		/app/arduino/hardware/arduino/avr/cores/arduino/wiring.c:338	10b
+		/app/arduino/hardware/arduino/avr/cores/arduino/wiring.c:356	10b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2Core.cpp:356	10b
+		/app/arduino/hardware/arduino/avr/cores/arduino/wiring.c:357	10b
+		/app/arduino/hardware/arduino/avr/cores/arduino/wiring.c:358	10b
+		/app/arduino/hardware/arduino/avr/cores/arduino/wiring.c:381	10b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:257	10b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:669	10b
+		/app/arduino/hardware/arduino/avr/cores/arduino/wiring.c:279	10b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:81	10b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:172	10b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:173	10b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2Core.cpp:273	10b
+		/app/arduino/hardware/arduino/avr/cores/arduino/wiring.c:293	10b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2Core.cpp:432	10b
+		/app/arduino/hardware/arduino/avr/cores/arduino/wiring.c:295	10b
+		/app/arduino/hardware/arduino/avr/cores/arduino/wiring.c:305	10b
+		/app/builds/8/main.ino:164	10b
+		/app/arduino/hardware/arduino/avr/cores/arduino/wiring.c:327	10b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:732	10b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:818	10b
+		/app/arduino/hardware/arduino/avr/cores/arduino/wiring.c:328	10b
+		/app/arduino/hardware/arduino/avr/cores/arduino/wiring.c:329	10b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:208	10b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:204	10b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:265	10b
+		/app/arduino/hardware/arduino/avr/cores/arduino/WMath.cpp:30	10b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:260	10b
+		/app/builds/8/main.ino:217	8b
+		/app/builds/8/main.ino:220	8b
+		/app/builds/8/main.ino:269	8b
+		/app/builds/8/main.ino:181	8b
+		/app/builds/8/main.ino:182	8b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:93	8b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:85	8b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:203	8b
+		/app/arduino/hardware/arduino/avr/libraries/EEPROM/src/EEPROM.h:59	8b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:56	8b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:222	8b
+		/app/builds/8/main.ino:158	8b
+		/app/builds/8/main.ino:165	8b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:1007	8b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:1008	8b
+		/app/builds/8/main.ino:214	8b
+		/app/builds/8/main.ino:215	8b
+		/app/builds/8/main.ino:216	8b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2Core.cpp:197	8b
+		/app/builds/8/main.ino:218	8b
+		/app/builds/8/main.ino:219	8b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2Core.cpp:428	8b
+		/app/builds/8/main.ino:332	8b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2Audio.cpp:21	8b
+		/app/builds/8/main.ino:225	8b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:157	8b
+		/app/arduino/hardware/arduino/avr/cores/arduino/Print.cpp:79	8b
+		/app/builds/8/main.ino:383	8b
+		/app/builds/8/main.ino:382	8b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:790	8b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:169	8b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2Core.cpp:199	8b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:261	8b
+		/app/builds/8/main.ino:362	8b
+		/app/builds/8/main.ino:371	8b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:49	8b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:229	6b
+		/app/builds/8/main.ino:151	6b
+		/app/builds/8/main.ino:205	6b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2Core.cpp:145	6b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2Core.cpp:123	6b
+		/app/builds/8/main.ino:361	6b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2Core.cpp:117	6b
+		/app/builds/8/main.ino:338	6b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2Core.cpp:151	6b
+		/app/builds/8/main.ino:346	6b
+		/app/arduino/hardware/arduino/avr/cores/arduino/Print.cpp:220	6b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2Core.cpp:362	6b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:161	6b
+		/app/arduino/hardware/arduino/avr/cores/arduino/wiring.c:252	6b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2Core.cpp:414	6b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2Core.cpp:134	6b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:190	6b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2Core.cpp:84	6b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:825	6b
+		/app/arduino/hardware/arduino/avr/cores/arduino/wiring.c:251	6b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:819	6b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:205	6b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:671	6b
+		/app/arduino/hardware/arduino/avr/cores/arduino/wiring.c:265	6b
+		/app/arduino/hardware/arduino/avr/cores/arduino/wiring.c:266	6b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:223	6b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:676	6b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:75	6b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:715	6b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:716	6b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2Core.cpp:271	6b
+		/app/arduino/hardware/arduino/avr/cores/arduino/Print.cpp:97	4b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:795	4b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2Core.cpp:207	4b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:821	4b
+		/app/builds/8/main.ino:376	4b
+		/app/builds/8/main.ino:352	4b
+		/app/builds/8/main.ino:351	4b
+		/app/builds/8/main.ino:350	4b
+		/app/builds/8/main.ino:349	4b
+		/app/arduino/hardware/arduino/avr/cores/arduino/Print.cpp:92	4b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:815	4b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:814	4b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:813	4b
+		/app/builds/8/main.ino:348	4b
+		/app/builds/8/main.ino:347	4b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:152	4b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2Core.cpp:215	4b
+		/app/builds/8/main.ino:344	4b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2Audio.cpp:26	4b
+		/app/builds/8/main.ino:345	4b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2Audio.cpp:51	4b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:62	4b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2Core.cpp:412	4b
+		/app/builds/8/main.ino:246	4b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:57	4b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2Core.cpp:413	4b
+		/app/arduino/hardware/arduino/avr/cores/arduino/wiring.c:290	4b
+		/app/builds/8/main.ino:271	4b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2Core.cpp:227	4b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2Core.cpp:228	4b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:55	4b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2Core.cpp:436	4b
+		/app/arduino/hardware/arduino/avr/cores/arduino/WMath.cpp:31	4b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2Audio.cpp:29	2b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2Core.cpp:137	2b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2Core.cpp:140	2b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2Core.cpp:202	2b
+		/app/arduino/hardware/arduino/avr/cores/arduino/wiring.c:245	2b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:796	2b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2Core.cpp:147	2b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2Core.cpp:129	2b
+		/app/arduino/hardware/arduino/avr/cores/arduino/wiring.c:74	2b
+		/app/arduino/hardware/arduino/avr/cores/arduino/wiring.c:72	2b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2Audio.cpp:17	2b
+		/app/arduino/hardware/arduino/avr/cores/arduino/wiring.c:68	2b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2Audio.cpp:16	2b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2Core.cpp:355	2b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2Core.cpp:131	2b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2Audio.cpp:30	2b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2Core.cpp:198	2b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2Core.cpp:120	2b
+References:
+		Sprites::drawBitmap(int, int, const unsigned char*, const unsigned char*, unsigned char, unsigned char, unsigned char) 848b 2 of 2
+		__vectors 202b 1 of 1
+		__floatsisf 122b 1 of 1
+		delay 116b 1 of 2
+		Arduboy2Core::buttonsState(void) 58b 16 of 16
+		sin 50b 1 of 1
+		Print::write(const char*) 36b 1 of 1
+		Arduboy2Core::paintScreen(unsigned char*, bool) 36b 3 of 4
+		__mulsf3 38b 2 of 3
+		micros 74b 1 of 3
+		__divmodhi4 24b 1 of 1
+		srand 22b 1 of 1
+		Arduboy2Core::idle(void) 22b 2 of 2
+		srandom 18b 1 of 1
+		__fixsfsi 14b 2 of 2
+		Arduboy2Base::fillScreen(unsigned char) 12b 3 of 3
+		Arduboy2Core::SPItransfer(unsigned char) 12b 3 of 3
+		cos 10b 1 of 1
+		Arduboy2Core::delayShort(unsigned int) 10b 11 of 11
+		rand 10b 1 of 1
+		__udivmodsi4 12b 2 of 3
+		eeprom_read_byte 16b 3 of 6
+		Print::print(const char*) 4b 8 of 8
+		Arduboy2Core::digitalWriteRGB(unsigned char, unsigned char) 4b 4 of 4
+		eeprom_write_byte 2b 2 of 2
+
+__vector_11 1120b:
+Internal:
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:647	62b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:488	52b
+		/app/arduino/hardware/arduino/avr/cores/arduino/CDC.cpp:119	38b
+		/app/arduino/hardware/arduino/avr/cores/arduino/CDC.cpp:84	34b
+		/app/arduino/hardware/arduino/avr/cores/arduino/PluggableUSB.cpp:56	32b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:394	32b
+		/app/arduino/hardware/arduino/avr/cores/arduino/PluggableUSB.cpp:66	26b
+		/app/arduino/hardware/arduino/avr/cores/arduino/PluggableUSB.cpp:44	26b
+		/app/arduino/hardware/arduino/avr/cores/arduino/PluggableUSB.cpp:65	24b
+		/app/arduino/hardware/arduino/avr/cores/arduino/PluggableUSB.cpp:57	22b
+		/app/arduino/hardware/tools/avr/avr/include/avr/wdt.h:528	22b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:533	22b
+		/app/arduino/hardware/arduino/avr/cores/arduino/PluggableUSB.cpp:45	22b
+		/app/arduino/hardware/tools/avr/avr/include/avr/wdt.h:486	22b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:393	16b
+		/app/arduino/hardware/arduino/avr/cores/arduino/CDC.cpp:75	16b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:527	14b
+		/app/arduino/hardware/arduino/avr/cores/arduino/CDC.cpp:144	14b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:356	12b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:621	12b
+		/app/arduino/hardware/arduino/avr/cores/arduino/CDC.cpp:125	12b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:492	10b
+		/app/arduino/hardware/arduino/avr/cores/arduino/CDC.cpp:149	10b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:459	10b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:624	8b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:109	8b
+		/app/arduino/hardware/arduino/avr/cores/arduino/CDC.cpp:112	8b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:131	8b
+		/app/arduino/hardware/arduino/avr/cores/arduino/CDC.cpp:129	8b
+		/app/arduino/hardware/arduino/avr/cores/arduino/CDC.cpp:143	8b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:96	8b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:136	8b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:156	8b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:520	8b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:91	8b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:524	8b
+		/app/arduino/hardware/arduino/avr/cores/arduino/CDC.cpp:124	8b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:360	6b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:369	6b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:493	6b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:619	6b
+		/app/arduino/hardware/arduino/avr/cores/arduino/CDC.cpp:94	6b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:509	6b
+		/app/arduino/hardware/arduino/avr/cores/arduino/CDC.cpp:114	6b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:379	6b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:359	6b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:544	6b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:540	6b
+		/app/arduino/hardware/arduino/avr/cores/arduino/CDC.cpp:73	6b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:514	6b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:364	6b
+		/app/arduino/hardware/arduino/avr/cores/arduino/CDC.cpp:80	6b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:521	6b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:611	6b
+		/app/arduino/hardware/arduino/avr/cores/arduino/CDC.cpp:92	6b
+		/app/arduino/hardware/arduino/avr/cores/arduino/CDC.cpp:71	4b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:641	4b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:518	4b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:526	4b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:529	4b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:532	4b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:383	4b
+		/app/arduino/hardware/arduino/avr/cores/arduino/CDC.cpp:104	4b
+		/app/arduino/hardware/arduino/avr/cores/arduino/PluggableUSB.cpp:59	4b
+		/app/arduino/hardware/arduino/avr/cores/arduino/CDC.cpp:87	4b
+		/app/arduino/hardware/arduino/avr/cores/arduino/CDC.cpp:82	4b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:516	4b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:523	4b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:542	4b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:487	4b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:507	4b
+		/app/arduino/hardware/arduino/avr/cores/arduino/PluggableUSB.cpp:47	4b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:637	4b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:370	4b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:358	4b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:615	4b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:502	4b
+		/app/arduino/hardware/arduino/avr/cores/arduino/CDC.cpp:140	2b
+		/app/arduino/hardware/arduino/avr/cores/arduino/CDC.cpp:68	2b
+		/app/arduino/hardware/arduino/avr/cores/arduino/CDC.cpp:69	2b
+References:
+		USB_SendStringDescriptor(const unsigned char*, unsigned char, unsigned char) 122b 1 of 1
+		SendInterfaces(void) 100b 2 of 2
+		USB_SendControl(unsigned char, const void*, int) 78b 2 of 3
+		PluggableUSB(void) 40b 3 of 4
+		Recv(V*, unsigned char, unsigned char) 26b 2 of 2
+
+Sprites::drawBitmap(int, int, const unsigned char*, const unsigned char*, unsigned char, unsigned char, unsigned char) 848b:
+Internal:
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:75	48b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:73	44b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:134	44b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:230	26b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:217	26b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:192	24b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:151	22b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:84	20b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:173	20b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:138	20b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:141	18b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:207	18b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:186	18b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:114	18b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:167	18b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:85	18b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:174	16b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:143	16b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:218	16b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:169	16b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:188	16b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:130	16b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:226	14b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:126	14b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:101	14b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:127	12b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:345	12b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:193	12b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:104	12b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:117	10b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:168	10b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:187	10b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:353	10b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:190	10b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:142	10b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:95	10b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:208	10b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:155	10b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:78	8b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:206	8b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:88	8b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:346	8b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:153	8b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:343	6b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:239	6b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:118	6b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:344	6b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:109	6b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:171	6b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:90	6b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:108	4b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:170	4b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:181	4b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:200	4b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:246	4b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:145	4b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:162	4b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:154	4b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:97	4b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:94	4b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:189	4b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:220	4b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:221	4b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:229	4b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:228	4b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:89	4b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:125	2b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:224	2b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:223	2b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:222	2b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:111	2b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:123	2b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:227	2b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:146	2b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:147	2b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:148	2b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:149	2b
+		/app/arduino/libraries/Arduboy2/src/Sprites.cpp:152	2b
+References:
+
+Arduboy2::write(unsigned char) 540b:
+Internal:
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:1192	56b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:1214	54b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:1204	42b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:1205	40b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:328	38b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:1195	34b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:1206	34b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:1232	22b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:333	20b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:1243	20b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:1225	18b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:1221	18b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:1210	16b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:1226	16b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:1223	14b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:286	12b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:1244	10b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:1241	10b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:1250	8b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:1236	8b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:1196	6b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:1239	6b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:331	6b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:1224	6b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:1198	6b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:1245	4b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:1193	4b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:1235	4b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:1234	4b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:330	4b
+References:
+
+Serial_::write(const unsigned char*, unsigned int) 266b:
+Internal:
+References:
+		delay 116b 1 of 2
+		USB_SendSpace(unsigned char) 34b 1 of 2
+
+__vector_10 228b:
+Internal:
+References:
+
+__vectors 202b:
+Internal:
+References:
+
+__trampolines_end 176b:
+Internal:
+References:
+
+__addsf3x 170b:
+Internal:
+References:
+		__fp_split3 16b 1 of 2
+
+do_random 150b:
+Internal:
+References:
+		__divmodsi4 30b 1 of 2
+		__muluhisi3 22b 1 of 3
+		__mulohisi3 10b 1 of 2
+
+__vector_23 148b:
+Internal:
+		/app/arduino/hardware/arduino/avr/cores/arduino/wiring.c:62	38b
+		/app/arduino/hardware/arduino/avr/cores/arduino/wiring.c:47	22b
+		/app/arduino/hardware/arduino/avr/cores/arduino/wiring.c:63	22b
+		/app/arduino/hardware/arduino/avr/cores/arduino/wiring.c:50	16b
+		/app/arduino/hardware/arduino/avr/cores/arduino/wiring.c:61	16b
+		/app/arduino/hardware/arduino/avr/cores/arduino/wiring.c:53	8b
+		/app/arduino/hardware/arduino/avr/cores/arduino/wiring.c:57	6b
+		/app/arduino/hardware/arduino/avr/cores/arduino/wiring.c:54	4b
+		/app/arduino/hardware/arduino/avr/cores/arduino/wiring.c:55	4b
+		/app/arduino/hardware/arduino/avr/cores/arduino/wiring.c:60	4b
+		/app/arduino/hardware/arduino/avr/cores/arduino/wiring.c:51	4b
+		/app/arduino/hardware/arduino/avr/cores/arduino/wiring.c:56	4b
+References:
+
+do_rand 146b:
+Internal:
+References:
+		__divmodsi4 30b 1 of 2
+		__muluhisi3 22b 1 of 3
+		__mulohisi3 10b 1 of 2
+
+Arduboy2::bootLogoExtra(void) 130b:
+Internal:
+		/app/arduino/hardware/arduino/avr/libraries/EEPROM/src/EEPROM.h:42	24b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:1189	18b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:1181	18b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:1177	16b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:1176	14b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:1163	10b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:1173	8b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:1187	8b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:1179	6b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:1166	4b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:982	4b
+References:
+		Arduboy2Core::paintScreen(unsigned char*, bool) 36b 1 of 4
+		eeprom_read_byte 16b 3 of 6
+
+USB_SendStringDescriptor(const unsigned char*, unsigned char, unsigned char) 122b:
+Internal:
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:430	28b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:442	20b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:435	18b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:436	14b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:431	12b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:433	10b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:432	8b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:437	6b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:434	4b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:441	2b
+References:
+		SendControl(unsigned char) 92b 4 of 5
+
+delay 116b:
+Internal:
+		/app/arduino/hardware/arduino/avr/cores/arduino/wiring.c:112	38b
+		/app/arduino/hardware/arduino/avr/cores/arduino/wiring.c:107	20b
+		/app/arduino/hardware/arduino/avr/cores/arduino/wiring.c:117	18b
+		/app/arduino/hardware/arduino/avr/cores/arduino/wiring.c:114	12b
+		/app/arduino/hardware/arduino/avr/cores/arduino/wiring.c:110	10b
+		/app/arduino/hardware/arduino/avr/cores/arduino/wiring.c:113	10b
+		/app/arduino/hardware/arduino/avr/cores/arduino/wiring.c:108	8b
+References:
+		micros 74b 2 of 3
+
+_GLOBAL__I_65535_0_main.ino.cpp.o.2422 106b:
+Internal:
+		/app/arduino/hardware/arduino/avr/cores/arduino/Print.h:46	16b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBAPI.h:93	16b
+		/app/arduino/hardware/arduino/avr/cores/arduino/Stream.h:63	16b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:1108	16b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:24	8b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:190	4b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:23	4b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:1115	4b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:1112	4b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:1111	4b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:1110	4b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:20	2b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:19	2b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:1113	2b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:1114	2b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:25	2b
+References:
+
+SendInterfaces(void) 100b:
+Internal:
+References:
+		USB_SendControl(unsigned char, const void*, int) 78b 1 of 3
+		PluggableUSB(void) 40b 1 of 4
+
+__fixunssfsi 94b:
+Internal:
+References:
+		__fp_splitA 52b 1 of 2
+		__fp_zero 2b 1 of 1
+
+SendControl(unsigned char) 92b:
+Internal:
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:400	22b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:405	18b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:408	18b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:102	8b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:91	6b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:402	4b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:131	4b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:104	4b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:409	4b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:403	2b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:410	2b
+References:
+
+Print::write(const unsigned char*, unsigned int) 86b:
+Internal:
+		/app/arduino/hardware/arduino/avr/cores/arduino/Print.cpp:38	34b
+		/app/arduino/hardware/arduino/avr/cores/arduino/Print.cpp:35	22b
+		/app/arduino/hardware/arduino/avr/cores/arduino/Print.cpp:42	20b
+		/app/arduino/hardware/arduino/avr/cores/arduino/Print.cpp:37	6b
+		/app/arduino/hardware/arduino/avr/cores/arduino/Print.cpp:36	4b
+References:
+
+USB_Recv(unsigned char, void*, int) 84b:
+Internal:
+References:
+
+__fp_rempio2 82b:
+Internal:
+References:
+		__fp_splitA 52b 1 of 2
+
+USB_SendControl(unsigned char, const void*, int) 78b:
+Internal:
+References:
+		SendControl(unsigned char) 92b 1 of 5
+
+__fp_powser 78b:
+Internal:
+References:
+		__addsf3x 170b 1 of 2
+		__mulsf3x 6b 1 of 2
+
+micros 74b:
+Internal:
+		/app/arduino/hardware/arduino/avr/cores/arduino/wiring.c:103	34b
+		/app/arduino/hardware/arduino/avr/cores/arduino/wiring.c:84	16b
+		/app/arduino/hardware/arduino/avr/cores/arduino/wiring.c:94	8b
+		/app/arduino/hardware/arduino/avr/cores/arduino/wiring.c:95	6b
+		/app/arduino/hardware/arduino/avr/cores/arduino/wiring.c:81	2b
+		/app/arduino/hardware/arduino/avr/cores/arduino/wiring.c:83	2b
+		/app/arduino/hardware/arduino/avr/cores/arduino/wiring.c:86	2b
+		/app/arduino/hardware/arduino/avr/cores/arduino/wiring.c:101	2b
+		/app/arduino/hardware/arduino/avr/cores/arduino/wiring.c:104	2b
+References:
+
+Serial_::peek(void) 72b:
+Internal:
+References:
+		USB_Recv(unsigned char, void*, int) 84b 1 of 2
+
+Serial_::read(void) 60b:
+Internal:
+References:
+		USB_Recv(unsigned char, void*, int) 84b 1 of 2
+
+Arduboy2Core::buttonsState(void) 58b:
+Internal:
+		/app/arduino/libraries/Arduboy2/src/Arduboy2Core.cpp:465	24b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2Core.cpp:467	24b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2Core.cpp:463	6b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2Core.cpp:471	4b
+References:
+
+Serial_::available(void) 52b:
+Internal:
+References:
+
+Serial_::write(unsigned char) 44b:
+Internal:
+References:
+
+__fp_powsodd 40b:
+Internal:
+References:
+		__fp_powser 78b 1 of 1
+		__mulsf3 38b 1 of 3
+
+PluggableUSB(void) 40b:
+Internal:
+References:
+
+__mulsf3 38b:
+Internal:
+References:
+		__fp_pscA 14b 1 of 2
+		__fp_pscB 14b 1 of 2
+		__mulsf3x 6b 1 of 2
+
+Arduboy2Core::paintScreen(unsigned char*, bool) 36b:
+Internal:
+References:
+
+Print::write(const char*) 36b:
+Internal:
+References:
+
+__fp_round 34b:
+Internal:
+References:
+
+USB_SendSpace(unsigned char) 34b:
+Internal:
+References:
+
+__umulhisi3 30b:
+Internal:
+References:
+
+__divmodsi4 30b:
+Internal:
+References:
+		__negsi2 16b 1 of 1
+		__udivmodsi4 12b 1 of 3
+
+__do_global_ctors 30b:
+Internal:
+References:
+		main 3066b 1 of 1
+		__tablejump2__ 12b 1 of 1
+
+Recv(V*, unsigned char, unsigned char) 26b:
+Internal:
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:115	12b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:118	8b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:114	4b
+		/app/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp:117	2b
+References:
+
+__divmodhi4 24b:
+Internal:
+References:
+		__udivmodhi4 8b 1 of 1
+
+__muluhisi3 22b:
+Internal:
+References:
+		__umulhisi3 30b 1 of 1
+
+Serial_::flush(void) 22b:
+Internal:
+References:
+
+srand 22b:
+Internal:
+References:
+
+Arduboy2Core::idle(void) 22b:
+Internal:
+		/app/arduino/libraries/Arduboy2/src/Arduboy2Core.cpp:265	16b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2Core.cpp:264	6b
+References:
+
+__do_copy_data 22b:
+Internal:
+References:
+
+srandom 18b:
+Internal:
+References:
+
+eeprom_read_byte 16b:
+Internal:
+References:
+
+__fp_split3 16b:
+Internal:
+References:
+
+__negsi2 16b:
+Internal:
+References:
+
+__fixsfsi 14b:
+Internal:
+References:
+		__fixunssfsi 94b 1 of 1
+
+__fp_pscA 14b:
+Internal:
+References:
+
+__fp_pscB 14b:
+Internal:
+References:
+
+__tablejump2__ 12b:
+Internal:
+References:
+
+Arduboy2Core::SPItransfer(unsigned char) 12b:
+Internal:
+		/app/arduino/libraries/Arduboy2/src/Arduboy2Core.cpp:242	6b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2Core.cpp:234	2b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2Core.cpp:241	2b
+		/app/arduino/libraries/Arduboy2/src/Arduboy2Core.cpp:243	2b
+References:
+
+__ctors_end 12b:
+Internal:
+References:
+
+Arduboy2Base::fillScreen(unsigned char) 12b:
+Internal:
+References:
+
+__udivmodsi4 12b:
+Internal:
+References:
+
+abort 10b:
+Internal:
+References:
+
+__mulohisi3 10b:
+Internal:
+References:
+		__muluhisi3 22b 1 of 3
+
+cos 10b:
+Internal:
+References:
+		__fp_rempio2 82b 1 of 2
+
+random 10b:
+Internal:
+References:
+		do_random 150b 1 of 2
+
+Arduboy2Core::delayShort(unsigned int) 10b:
+Internal:
+		/app/arduino/libraries/Arduboy2/src/Arduboy2Core.cpp:476	10b
+References:
+
+rand 10b:
+Internal:
+References:
+		do_rand 146b 1 of 2
+
+__do_clear_bss 8b:
+Internal:
+References:
+
+Serial_::availableForWrite(void) 8b:
+Internal:
+References:
+		USB_SendSpace(unsigned char) 34b 1 of 2
+
+__udivmodhi4 8b:
+Internal:
+References:
+
+rand_r 6b:
+Internal:
+References:
+		do_rand 146b 1 of 2
+
+__mulshisi3 6b:
+Internal:
+References:
+
+__mulsf3x 6b:
+Internal:
+References:
+		__fp_split3 16b 1 of 2
+
+__fp_nan 6b:
+Internal:
+References:
+
+Print::availableForWrite(void) 6b:
+Internal:
+		/app/arduino/hardware/arduino/avr/cores/arduino/Print.h:63	6b
+References:
+
+random_r 6b:
+Internal:
+References:
+		do_random 150b 1 of 2
+
+Thn4_N8Arduboy213bootLogoExtraEv 6b:
+Internal:
+References:
+
+__bad_interrupt 4b:
+Internal:
+References:
+
+__cxa_pure_virtual 4b:
+Internal:
+		/app/arduino/hardware/arduino/avr/cores/arduino/abi.cpp:27	4b
+References:
+		abort 10b 1 of 1
+
+Print::print(const char*) 4b:
+Internal:
+References:
+
+__floatunsisf 4b:
+Internal:
+References:
+
+Arduboy2Core::digitalWriteRGB(unsigned char, unsigned char) 4b:
+Internal:
+		/app/arduino/libraries/Arduboy2/src/Arduboy2Core.cpp:436	4b
+References:
+
+__fp_zero 2b:
+Internal:
+References:
+
+eeprom_write_byte 2b:
+Internal:
+References:
+
+__ctors_start 2b:
+Internal:
+References:
+
+Print::flush(void) 2b:
+Internal:
+		/app/arduino/hardware/arduino/avr/cores/arduino/Print.h:90	2b
+References:
+
+Arduboy2Base::bootLogoExtra(void) 2b:
+Internal:
+		/app/arduino/libraries/Arduboy2/src/Arduboy2.cpp:184	2b
+References:
+
+_exit 2b:
+Internal:
+References:
+
+__stop_program 0b:
+Internal:
+References:
+
