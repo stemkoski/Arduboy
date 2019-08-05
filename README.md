@@ -1,7 +1,7 @@
 # Arduboy
 Games created for the [Arduboy](https://arduboy.com/) miniature game system.
 
-<img align="right" src="Screenshot-01.png" width="100" height="150">
+<img align="right" src="MazeExplorer-01/screenshot.png" width="100" height="150">
 
 Maze Explorer: Version 1.0
 --------------------------
