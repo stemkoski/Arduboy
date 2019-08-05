@@ -211,11 +211,14 @@ void stateManager()
 void titleScreen()
 {
     arduboy.setCursor(0, 0);
-    arduboy.print("Maze Explorer v1.0");
     arduboy.print("\n");
-    arduboy.print("press [A] to start");
+    arduboy.print("  Maze Explorer v1.0");
     arduboy.print("\n");
-      
+    arduboy.print("\n");
+    arduboy.print("\n");
+    arduboy.print("\n");
+    arduboy.print("  press [A] to start");
+
     pseudoRandomSeed += 1;
     if ( arduboy.justPressed(A_BUTTON) )
     {
